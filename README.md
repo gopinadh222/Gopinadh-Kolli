@@ -1,5 +1,6 @@
+![logo](https://github.com/gopinadh222/Gopinadh-Kolli/blob/main/GOPINADH-Banner.png)
 <h1>Hi 👋, I'm  GOPINADH</h1>
-<p>A passionate Full Stack Developer from India</p>
+<p>A passionate Software Engineer from India</p>
 <p> 🔭 I’m currently working on frontend projects.</p>
 <p>🌱 I’m learning React, Node.js, Express, Python, and AI technologies.</p>
 <p>👯 I’m looking to collaborate on real-time Full Stack Development and AI projects.</p>
